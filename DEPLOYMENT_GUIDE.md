@@ -67,7 +67,7 @@ git commit -m "Initial commit: Bhutan Image Colorizer with model"
 
 # Add your GitHub repository as remote
 # Replace YOUR_USERNAME and REPO_NAME with your actual values
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
+git commit -m "Initial commit: Bhutan Image Colorizer with model" https://github.com/YOUR_USERNAME/REPO_NAME.git
 
 # Push to GitHub
 git branch -M main
